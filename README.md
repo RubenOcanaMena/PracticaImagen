@@ -20,7 +20,6 @@ Este repositorio contiene un flujo de trabajo completo para el tratamiento de un
 │       ├── daisy/
 │       └── dandelion/
 ├── modelos/
-├── notebooks/
 │   ├── 01_EDA.ipynb
 │   ├── 02_ML_classifier.ipynb
 │   └── 03_Deep_Learning.ipynb
