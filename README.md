@@ -7,23 +7,26 @@ Este repositorio contiene un flujo de trabajo completo para el tratamiento de un
 
 ## Estructura del Proyecto
 
+```text
 .
 ├── data/
-│ ├── train/
-│ │ ├── daisy/
-│ │ └── dandelion/
-│ ├── valid/
-│ │ ├── daisy/
-│ │ └── dandelion/
-│ └── test/
-│ ├── daisy/
-│ └── dandelion/
+│   ├── train/
+│   │   ├── daisy/
+│   │   └── dandelion/
+│   ├── valid/
+│   │   ├── daisy/
+│   │   └── dandelion/
+│   └── test/
+│       ├── daisy/
+│       └── dandelion/
 ├── modelos/
-│ ├── 01_EDA.ipynb
-│ ├── 02_ML_classifier.ipynb
-│ ├── 03_Deep_Learning.ipynb
+├── notebooks/
+│   ├── 01_EDA.ipynb
+│   ├── 02_ML_classifier.ipynb
+│   └── 03_Deep_Learning.ipynb
 ├── outputs/
-└── README.md
+└── README.md 
+```
 
 
 ## 1. Análisis Exploratorio de Datos (EDA)
